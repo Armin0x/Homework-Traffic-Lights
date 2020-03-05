@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TrafficLight\TrafficLight\bin\Release\netcoreapp3.1\TrafficLight.exe
+C:\Users\User\source\repos\TrafficLight\TrafficLight\bin\Release\netcoreapp3.1\TrafficLight.deps.json
+C:\Users\User\source\repos\TrafficLight\TrafficLight\bin\Release\netcoreapp3.1\TrafficLight.runtimeconfig.json
+C:\Users\User\source\repos\TrafficLight\TrafficLight\bin\Release\netcoreapp3.1\TrafficLight.runtimeconfig.dev.json
+C:\Users\User\source\repos\TrafficLight\TrafficLight\bin\Release\netcoreapp3.1\TrafficLight.dll
+C:\Users\User\source\repos\TrafficLight\TrafficLight\bin\Release\netcoreapp3.1\TrafficLight.pdb
+C:\Users\User\source\repos\TrafficLight\TrafficLight\obj\Release\netcoreapp3.1\TrafficLight.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TrafficLight\TrafficLight\obj\Release\netcoreapp3.1\TrafficLight.AssemblyInfo.cs
+C:\Users\User\source\repos\TrafficLight\TrafficLight\obj\Release\netcoreapp3.1\TrafficLight.dll
+C:\Users\User\source\repos\TrafficLight\TrafficLight\obj\Release\netcoreapp3.1\TrafficLight.pdb
